@@ -1,0 +1,5 @@
+﻿Algorithm Strategy – Mini Project
+
+Name: Nishant Kumar  
+Roll No: 2301201061  
+Course: ENCA351
